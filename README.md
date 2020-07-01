@@ -1,2 +1,2 @@
-MQ POC GUIDE V 1.0
-============
+# mqpoc
+GUIDE mqpoc
