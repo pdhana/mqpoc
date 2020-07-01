@@ -1,2 +1,1 @@
-# mqpoc
 GUIDE mqpoc
